@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about JavaScript, HTML, CSS and React.
 - :computer: I’m currently in trainee process at Visão Tecnologia e Sistemas Jr.
 - :school: I'm student at UFOP in course Computer Engineering.
-- ⚡ Fun fact: I like to play guitar and videogames.
+- ⚡ Fun fact: I like to play guitar and play videogames.
 
 ### Connect with me:
 
