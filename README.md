@@ -16,6 +16,4 @@
 <br />
 
 
-[linkedin]: https://www.linkedin.com/in/luizapolita
-[twitter]: https://twitter.com/luibpza
-[instagram]: https://www.instagram.com/luizapolita
+
