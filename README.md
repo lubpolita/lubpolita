@@ -2,7 +2,7 @@
 
 - 🔭 I'm focused in better my skills.
 - 🌱 I’m currently learning about JavaScript, HTML, CSS and React.
-- :computer: I’m currently in trainee process at Visão Tecnologia e Sistemas Jr.
+- :computer: I’m currently project advisor at Visão Tecnologia e Sistemas Jr.
 - :school: I'm student at UFOP in course Computer Engineering.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I like to play guitar and play videogames.
