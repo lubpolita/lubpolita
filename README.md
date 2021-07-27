@@ -16,13 +16,11 @@
 <br />
 
 
-<a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lubpolita">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lubpolita&layout=compact&theme=radical" />
-</a>
-
-
-
-
 [linkedin]: https://www.linkedin.com/in/luizapolita
 [twitter]: https://twitter.com/luibpza
 [instagram]: https://www.instagram.com/luizapolita
+
+
+<a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lubpolita">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lubpolita&layout=compact&theme=radical" />
+</a>
