@@ -1,7 +1,7 @@
 ### Hi there, I'm Luiza :wave:
 
 - 🔭 I'm focused in better my skills.
-- 🌱 I’m currently learning about JavaScript, HTML, CSS and React.
+- 🌱 I’m currently learning about ReactJS and NodeJS.
 - :computer: I’m currently project advisor at Visão Tecnologia e Sistemas Jr.
 - :school: I'm student at UFOP in course Computer Engineering.
 - 😄 Pronouns: She/Her.
