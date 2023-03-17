@@ -2,7 +2,6 @@
 
 - 🔭 I'm focused in better my skills.
 - 🌱 I’m currently learning about ABAP/SAP.
-- :computer: I’m currently project advisor at Visão Tecnologia e Sistemas Jr.
 - :school: I'm student at UFOP in course Computer Engineering.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I like to play guitar and play videogames.
